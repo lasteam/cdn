@@ -2,22 +2,22 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "3a85dea46454f2ed3a48ac8c8275e7dd57459eba.js",
+      "path": "09701440038525622156d7c6ddbb65343872aba1.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/3a85dea46454f2ed3a48ac8c8275e7dd57459eba.js",
-      "size": 935245,
-      "hash": "3a85dea46454f2ed3a48ac8c8275e7dd57459eba"
+      "url": "/09701440038525622156d7c6ddbb65343872aba1.js",
+      "size": 935639,
+      "hash": "09701440038525622156d7c6ddbb65343872aba1"
     },
     {
-      "path": "cb9176822d805a87cc006c416b6db1430cfc2df6.css",
+      "path": "9201611c0eb431a89d918f5c43f5ac60093485da.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/cb9176822d805a87cc006c416b6db1430cfc2df6.css?meteor_css_resource=true",
-      "size": 66096,
-      "hash": "cb9176822d805a87cc006c416b6db1430cfc2df6"
+      "url": "/9201611c0eb431a89d918f5c43f5ac60093485da.css?meteor_css_resource=true",
+      "size": 65152,
+      "hash": "9201611c0eb431a89d918f5c43f5ac60093485da"
     },
     {
       "path": "packages/china_sweetalert/sweetalert/lib/sweet-alert.html",
@@ -43,8 +43,8 @@
       "type": "asset",
       "cacheable": false,
       "url": "/docs/week-report.md",
-      "size": 3014,
-      "hash": "6b437b71f1076affe491b6422b8536d65936697e"
+      "size": 3526,
+      "hash": "e59f117ae02e3c6b9d31af3cd3b992e3fc122e2e"
     },
     {
       "path": "app/elements/f-elements.html",
