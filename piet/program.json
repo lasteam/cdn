@@ -2,22 +2,22 @@
   "format": "web-program-pre1",
   "manifest": [
     {
-      "path": "8b475cc024654e85ef028a32e416776301601a05.js",
+      "path": "3a85dea46454f2ed3a48ac8c8275e7dd57459eba.js",
       "where": "client",
       "type": "js",
       "cacheable": true,
-      "url": "/8b475cc024654e85ef028a32e416776301601a05.js",
-      "size": 924820,
-      "hash": "8b475cc024654e85ef028a32e416776301601a05"
+      "url": "/3a85dea46454f2ed3a48ac8c8275e7dd57459eba.js",
+      "size": 935245,
+      "hash": "3a85dea46454f2ed3a48ac8c8275e7dd57459eba"
     },
     {
-      "path": "d5a5813ae3dda93721f4ce289e4a23121264e79b.css",
+      "path": "cb9176822d805a87cc006c416b6db1430cfc2df6.css",
       "where": "client",
       "type": "css",
       "cacheable": true,
-      "url": "/d5a5813ae3dda93721f4ce289e4a23121264e79b.css?meteor_css_resource=true",
-      "size": 65862,
-      "hash": "d5a5813ae3dda93721f4ce289e4a23121264e79b"
+      "url": "/cb9176822d805a87cc006c416b6db1430cfc2df6.css?meteor_css_resource=true",
+      "size": 66096,
+      "hash": "cb9176822d805a87cc006c416b6db1430cfc2df6"
     },
     {
       "path": "packages/china_sweetalert/sweetalert/lib/sweet-alert.html",
@@ -34,8 +34,8 @@
       "type": "asset",
       "cacheable": false,
       "url": "/vulcanized.html",
-      "size": 163283,
-      "hash": "6e8a9c5e1aba8c0ffb54ce889bdf1d70356d9dbb"
+      "size": 175300,
+      "hash": "a519ed30a99ee1d1e64ae51eb3daef9bd7693c4e"
     },
     {
       "path": "app/docs/week-report.md",
@@ -43,8 +43,8 @@
       "type": "asset",
       "cacheable": false,
       "url": "/docs/week-report.md",
-      "size": 2374,
-      "hash": "1fdfbc8c0224dee135bc48c7d9974eb46706a9c5"
+      "size": 3014,
+      "hash": "6b437b71f1076affe491b6422b8536d65936697e"
     },
     {
       "path": "app/elements/f-elements.html",
@@ -61,8 +61,8 @@
       "type": "asset",
       "cacheable": false,
       "url": "/elements/m-elements.html",
-      "size": 6459,
-      "hash": "b74125efb05c3e7f81cf8cfba7500ba2410180fc"
+      "size": 8594,
+      "hash": "e8d7d4ac0e0fa285a7a13f68d16889f31a9677e6"
     },
     {
       "path": "app/elements/p-card.html",
